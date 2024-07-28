@@ -12,4 +12,5 @@ double circle;
 circle=2*pi*r;
 cout <<circle;
 cout<<newline;
+cout<<"test";
 }
